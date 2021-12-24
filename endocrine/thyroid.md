@@ -64,9 +64,9 @@ Symptoms of hyperthyroidism are all resultant of increased metabolism, basically
 * hyperreflexia on neurological examination
 * warm, moise skin
 * fine hair 
-* tachycardia, leading to atrial fibrilation. <br>
-When patients present with acute onset a-fib, it is important to check for hyperthyroidism.<br>
+* tachycardia, leading to atrial fibrilation.
 
+When patients present with acute onset a-fib, it is important to check for hyperthyroidism.<br>
 Common hyperthyroid disorders include:
 1. Grave's disease (most common cause)
 2. toxic multinodular goiter
@@ -86,7 +86,8 @@ A goiter is an enlarged thyroid that occurs from a high level of TSH coupled wit
 Grave's disease is an autoimmune disorder in which thyroid stimulating antibodies are produced that function similarly to TSH, leading to symptoms of hyperthyroidism. Grave's disease is hallmarked by two unique clinial signs beyond symptoms of hyperthyroidism:
 1. exophthalmos (bulging of the eyes) coupled with proptosis (protrusion of the eye) and periorbital edema
 	- patients do not present with ocular symptoms 
-2. pretibial myxedema <br>
+2. pretibial myxedema
+
 These two findings occur due to T-cell lympocute activation of fibroblasts, as fibroblasts also contain the TSH receptor. The stimulation leads to secretion of of glycosaminoglycans, which are mostly hydrophilic substances (e.g. hyaluronic acid). Glycosaminoglycans draw in water, leading to non-pitting edema and general swelling. Elevated direct measurement of thyroid stimulating antiglobulins (TSH receptor antibodies) also suggests Grave's.<br>
 Treatment of Grave's usually starts with the symptoms (beta blockers for heart symptoms and thionamindes to inhibit thyroid production) to make a patient feel better. Definitive treatment involves surgical or radiological ablation of the thyroid gland via radioactive iodine followed by thyroid replacement therapy for the remainder of the patient's life. 
 
@@ -95,7 +96,8 @@ The two most common thyroid hormone production inhibitors are:
 1. Methimazole, which inhibits TPO (thyroid peroxidase), blunting both the:
 	-organification of iodone and 
 	-coupling of MIT and DIT 
-2. Propylthiouracil (PUT), which inhibits TPO and 5'-deiodinase, blunting the peripheral conversion of T4 into the more potent T3. <br>
+2. Propylthiouracil (PUT), which inhibits TPO and 5'-deiodinase, blunting the peripheral conversion of T4 into the more potent T3.
+
 Both of these drugs can cause a skin rash. A rare complication is agranulocytosis, or a drop in WBC count. This presents with a fever or infection after starting a drug with an increase in WBC count following stopping of the drug. In a minority of cases, this can lead to alastic anemia being developed. Both drugs are also associated with hepatotoxicity. <br>
 Methimaole is a teratogen, and thus associated with congenital malformations especially when taken in the first trimester. Thus, PTU is often used during early pregnancy in women who are hyperthyroid. 
 
@@ -122,7 +124,8 @@ Patients on amiodarone can also develop hypothyroidism via the Wolff-Chaikoff Ef
 The best initial test for a thyroid disorder is a TSH. Plasma T3 and T4 levels are fluctuating, thus TSH provides a more robust measurements of what the tissues are seeing. <br>
 Most thyroid disorders are called "primary disorders," meaning the disorder is within the thyroid gland itself. The thyroid is either overproducing or underproducing thyroid hormone, and the pituitary gland is modifying TSH levels to compensate. Thus, TSH levels are always opposite the thyroid hormone level:
 * hypothyroidism := high TSH with low T3 and T4
-* hyperthyroidism := low TSH with high T3 and T4 <br>
+* hyperthyroidism := low TSH with high T3 and T4
+
 A minority of patients may present with "central disease," meaning that the thyroid gland is normal but the pituitary gland is undersecreting or oversecreting TSH. In this case, patients present with proportional levels of TSH and thyroid hormone. Usually, these diseases are caused by hypothalamic-pituitary axis tumors which can block the secretion of TRH or TSH, leading to hypothyroidism. These tumors can sometimes produce TSH (i.e. TSHoma), leading to hyperthyroidism. <br>
 In pituitary resistance to thyroid hormone, the negative feedback between thyroid hormone and the pituitary is ablated, leading to over production of thyroid hormone via undiminished TSH production, or hyperthyroidism. 
 
