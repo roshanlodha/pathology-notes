@@ -31,5 +31,19 @@ Protein (primarily albumin) in the urine is also detected via the dipstick. This
 Filteration barrier to proteins is lost but the RBCs are still filtered (i.e. capillary endothelium is still intact). This leads to massive proteinuria.
 ![Nephrotic Syndromes](./images/nephrotic.png)
 
-## Nephrotic Syndromes
-Filteration barrier to proteins is lost but the RBCs are still filtered (i.e. capillary endothelium is still intact). This leads to massive proteinuria
+## Nephritic Syndromes
+Urinary lipids may be present and are trapped in casts (called fatty casts). Under polarized light, the fat droplets look like the maltese cross. General symptoms include:
+- frothy urine
+- ankle swelling
+- periorbital swelling
+- high cholesterol (> 300)
+- proteinuria
+
+This is caused by inflmmation that damages the entire glomerulus. The filteration to both RBCs and proteins is lost, and the glomerular damage leads to a decrease in the filteration rate. Destruction causes RBCs in the urine and RBC casts. The protein in the urine presents less than that in nephrotic syndrome because there is lower glomerular filteration. 
+![Nephritic Syndromes](./images/nephritic.png)
+
+Clasically, nephritic syndromes can be diagnosed via:
+- dark urine
+- swelling
+- fatigue
+- (mild) proteinuria 
