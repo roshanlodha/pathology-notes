@@ -29,6 +29,7 @@ Protein (primarily albumin) in the urine is also detected via the dipstick. This
 
 ## Nephrotic Syndromes
 Filteration barrier to proteins is lost but the RBCs are still filtered (i.e. capillary endothelium is still intact). This leads to massive proteinuria.
+![Nephrotic Syndromes](./images/nephrotic.png)
 
 ## Nephrotic Syndromes
 Filteration barrier to proteins is lost but the RBCs are still filtered (i.e. capillary endothelium is still intact). This leads to massive proteinuria
